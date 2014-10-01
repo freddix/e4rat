@@ -1,7 +1,7 @@
 Summary:	Toolset to accelerate the boot process and application startups
 Name:		e4rat
 Version:	0.2.3
-Release:	2
+Release:	4
 License:	GPL
 Group:		Applications
 Source0:	http://downloads.sourceforge.net/project/%{name}/%{version}/%{name}_%{version}_src.tar.gz
